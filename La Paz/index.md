@@ -1,5 +1,5 @@
-# Beni 
-![Imagen departamento de La Paz](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beni_dpto_001.png/300px-Beni_dpto_001.png)
+# La Paz 
+![Imagen departamento de La Paz](https://upload.wikimedia.org/wikipedia/commons/c/cb/DPTO_LP_003.png)
 ## 1. Introducción 
 
 La Paz, es la sede de gobierno del Estado Plurinacional de Bolivia. Su capital es La Paz. Está ubicado en el este del país, limitando al norte con el departamento de Pando, al este con el departamento de Beni, al sur con Oruto y al oeste con los paises de Chile y Perú. Desde el 7 de diciembre de 2014, La Paz es considerada como una de las nuevas siete ciudades maravillas del mundo.
@@ -30,7 +30,7 @@ Fuente: [Wikipedia La Paz Historia](https://es.wikipedia.org/wiki/La_Paz#Histori
 
 ## 3. Atractivos
 
-# En la ciudad de La Paz
+### En la ciudad de La Paz
 
 * Casco Viejo de la Ciudad
 * Plaza Murillo
@@ -60,7 +60,7 @@ Fuente: [Wikipedia La Paz Historia](https://es.wikipedia.org/wiki/La_Paz#Histori
 * La Muela del Diablo
 * Jardín Japonés
 
-# En los alrededores de la ciudad de La Paz
+### En los alrededores de la ciudad de La Paz
 
 * Cerro Illimani (la mayor cumbre de la Cordillera Real).
 * Montaña Huayna Potosí
