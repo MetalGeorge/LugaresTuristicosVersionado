@@ -3,4 +3,4 @@
 
 En esta página exploraremos el páis más hermoso del mundo (¡¡¡no lo decimos nosotros!!!)
 
-* [Oruro](Oruro/Oruro.md)
+* [Oruro](Oruro.md)
