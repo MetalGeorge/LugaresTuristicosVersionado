@@ -1,5 +1,5 @@
 # La Paz 
-![Imagen departamento de La Paz](https://upload.wikimedia.org/wikipedia/commons/c/cb/DPTO_LP_003.png)
+![Imagen departamento de La Paz](/img/lapaz.jpg)
 ## 1. Introducción 
 
 La Paz, es la sede de gobierno del Estado Plurinacional de Bolivia. Su capital es La Paz. Está ubicado en el este del país, limitando al norte con el departamento de Pando, al este con el departamento de Beni, al sur con Oruto y al oeste con los paises de Chile y Perú. Desde el 7 de diciembre de 2014, La Paz es considerada como una de las nuevas siete ciudades maravillas del mundo.
