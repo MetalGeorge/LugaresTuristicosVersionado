@@ -4,4 +4,3 @@
 En esta página exploraremos el páis más hermoso del mundo (¡¡¡no lo decimos nosotros!!!)
 
 * [Beni y Pando](BeniPando/index.md)
-* [Oruro](Oruro/Oruro.md)
