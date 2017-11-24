@@ -10,5 +10,119 @@ Legado de dos periodos importantísimos como el de la Colonia y la vida republic
 <p>
   A partir de la declaratoria de la Unesco se creó en 1995 el PRAHS, encargado de la gestión del centro histórico. Sucre es una de las   ciudades en Bolivia que más cantidad de    declaratorias ha recibido en reconocimiento a  su patrimonio arquitectónico.  
 </p>
+<section id="ciudad" style="padding-top: 10px; background-color: #F0EDE4; ">
+    <div class="container">
+      <div class="heading wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInUp; padding-bottom: 10px;">
+        <div class="row">
+          <div class="text-center col-sm-8 col-sm-offset-2">
+            <h2>En la Ciudad</h2>
+            
+          </div>
+        </div> 
+      </div>
+      <div class="text-center our-services" >
+        <div class="row">
+          <div class="col-sm-4 wow fadeInDown animated" data-wow-duration="1000ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInDown;">
+            <div class="">
+              <a href="#"><img class="" src="http://destino.sucre.travel/img/productos/items/1_imagen_principal.jpg" alt="" style="width:100%; border-radius:5px;"></a>
+            </div>
+            <div class="service-info">
+              <h3>Calles empedradas con faroles
+</h3>
+              <p>La ciudad de los 4 nombres: Charcas, La Plata, Chuquisaca y Sucre, sus calles empedradas, fuentes labradas en granito, iglesias antiguas, casas con tejas de barro cocido, espolvoreadas con cal y de paredes blancas, la hacen llamar “la ciudad blanca de América”. Declarada por la Unesco como Patrimonio</p>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInDown animated" data-wow-duration="1000ms" data-wow-delay="450ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 450ms; animation-name: fadeInDown;">
+            <div class="">
+              <a href="#"><img class="" src="http://destino.sucre.travel/img/productos/items/2_imagen_principal.jpg" alt="" style="width:100%; border-radius:5px"></a>
+            </div>
+            <div class="service-info">
+              <h3>La casa de la libertad</h3>
+              <p>El ediio de la Casa de la Libertad posee una larga historia que se remonta a tiempos de la colonia, cuando sus salones formaban parte de la Manzana Jesuítica de La Plata. Ahí, el 27 de marzo de 1624 se fundó la Universidad San Francisco Xavier bajo la dirección de la Compañía de Jesús</p>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInDown animated" data-wow-duration="1000ms" data-wow-delay="550ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 550ms; animation-name: fadeInDown;">
+            <div class="">
+              <a href="#"><img class="" src="http://destino.sucre.travel/img/productos/items/3_imagen_principal.jpg" alt="" style="width:100%; border-radius:5px"></a>
+            </div>
+            <div class="service-info">
+              <h3>Teatro gran mariscal de Ayacucho</h3>
+              <p>Ediado en la segunda década del siglo 20, este hermoso ediio de estilo ecléctico con elementos decorativos característicos del estilo, cuenta con tres niveles y se encuentra emplazados en forma aislada con cuatro fachadas de formas redondeadas o curvas en las esquinas, fue diseñado</p>
+            </div>
+          </div>
+         
+          
+          
+        </div>
+      </div>
+    </div>
+  </section>
 
-* [Beni y Pando](BeniPando/index.md)
+  <section id="alrededores" style="padding-top: 10px;">
+    <div class="container">
+      <div class="heading wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInUp; padding-bottom: 10px;">
+        <div class="row">
+          <div class="text-center col-sm-8 col-sm-offset-2">
+            <h2>Alrededores</h2>
+            
+          </div>
+        </div> 
+      </div>
+      <div class="text-center our-services">
+        <div class="row">
+          <div class="col-sm-3 wow fadeInDown animated" data-wow-duration="1000ms" data-wow-delay="300ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 300ms; animation-name: fadeInDown;">
+            <div class="">
+              <a href="#"><img class="" src="http://www.periodicolaregion.com/wp-content/uploads/2015/10/151446067_6c0d18acbe_b.jpg" alt="" style="width:100%; border-radius:5px; height: 190px; "></a>
+            </div>
+            <div class="service-info">
+              <h3>Yotala</h3>
+              <p>A 14 kilómetros de Sucre, en la carretera asfaltada hacia Potosí, se encuentra la pequeña
+población de Yotala, cuyas características de estructura urbana y diseño colonial, se prestan
+para pasear y reposar. En el camino se puede encontrar un hotel, que brinda al turista la paz y
+tranquilidad de la naturaleza y clima templado</p>
+            </div>
+          </div>
+          <div class="col-sm-3 wow fadeInDown animated" data-wow-duration="1000ms" data-wow-delay="450ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 450ms; animation-name: fadeInDown;">
+            <div class="">
+              <a href="#"><img class="" src="http://hemeroteca.correodelsur.com/2014/11/12/ca_5_3_archi.jpg" alt="" style="width:100%; border-radius:5px; height: 190px; "></a>
+            </div>
+            <div class="service-info">
+              <h3>Tarabuco</h3>
+              <p>Conocido internacionalmente por sus textiles y artesanías, Tarabuco se halla a 60 kilómetros
+de Sucre. El movimiento en sus calles adquiere notoriedad los domingos en la feria de
+intercambio de productos agrícolas y textiles entre los pobladores de las comunidades
+aledañas.
+Cada tercer domingo de marzo se lleva a cabo el Pujllay, fiesta en la que participan danzarines
+de varias comunidades con vestimentas tradicionales de diseño único. 
+</p>
+            </div>
+          </div>
+          <div class="col-sm-3 wow fadeInDown animated" data-wow-duration="1000ms" data-wow-delay="550ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 550ms; animation-name: fadeInDown;">
+            <div class="">
+              <a href="#"><img class="" src="https://vanityflor.es/img/cms/Camargo.jpg" alt="" style="width:100%; border-radius:5px; height:  190px;"></a>
+            </div>
+            <div class="service-info">
+              <h3>Camargo</h3>
+              <p>Entre Sucre y Potosí se encuentra el cañón de Camargo, un valle donde se cultiva la vid y se
+elaboran vinos y singanis desde la época colonial. En las cercanías se pueden encontrar
+pinturas rupestres (San Pedro) y hermosas haciendas, también coloniales</p>
+            </div>
+          </div>
+          <div class="col-sm-3 wow fadeInUp animated" data-wow-duration="1000ms" data-wow-delay="650ms" style="visibility: visible; animation-duration: 1000ms; animation-delay: 650ms; animation-name: fadeInUp;">
+            <div class="">
+              <a href="#"><img class="" src="https://2.bp.blogspot.com/-TCnoFRD5lT0/WcE3yhhczrI/AAAAAAAACtY/y38KZgARqTsZX21BhsTJ6t_hYRgeJcoHwCLcBGAs/s1600/lugares%2Bturisticos-padilla-chuquisaca-bolivia.jpg" alt="" style="width:100%; border-radius:5px; height: 190px; "></a>
+            </div>
+            <div class="service-info">
+              <h3>Padilla </h3>
+              <p>El tradicional carnaval y los restos arqueológicos de sus alrededores, hacen de Padilla una de
+las atracciones turísticas del Departamento. Está a 187 kilómetros de Sucre. Según las
+tradiciones y leyendas, en el lugar existía una laguna que los españoles desaguaron para
+encontrar oro y tesoros. En la Cruz de la Misión se encuentra la boca del túnel</p>
+            </div>
+          </div>
+          
+          
+        </div>
+      </div>
+    </div>
+  </section>
