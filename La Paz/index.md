@@ -30,7 +30,7 @@ Fuente: [Wikipedia La Paz Historia](https://es.wikipedia.org/wiki/La_Paz#Histori
 
 ## 3. Atractivos
 
-## En la ciudad de La Paz
+# En la ciudad de La Paz
 
 * Casco Viejo de la Ciudad
 * Plaza Murillo
@@ -60,16 +60,12 @@ Fuente: [Wikipedia La Paz Historia](https://es.wikipedia.org/wiki/La_Paz#Histori
 * La Muela del Diablo
 * Jardín Japonés
 
-En los alrededores de la ciudad de La Paz
+# En los alrededores de la ciudad de La Paz
 
 * Cerro Illimani (la mayor cumbre de la Cordillera Real).
-
 * Montaña Huayna Potosí
-
 * Chacaltaya (pista de nieve más alta del mundo).
-
 * Lago Titicaca
-
 * Copacabana (Bolivia) (pueblo a orillas del lago Titicaca).
 * Parque Nacional Madidi
 * Sorata
