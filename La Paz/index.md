@@ -30,52 +30,57 @@ Fuente: [Wikipedia La Paz Historia](https://es.wikipedia.org/wiki/La_Paz#Histori
 
 ## 3. Atractivos
 
-En la ciudad de La Paz
+## En la ciudad de La Paz
 
-Casco Viejo de la Ciudad
-Plaza Murillo
-Palacio de Gobierno (Bolivia)
-El Paseo del Prado (El Prado).
-Templo y convento de San Francisco
-Catedral Metropolitana
-Parque Urbano Central (que tiene los parques Roosevelt y Laikakota, variedad de canchas polifuncionales, un museo interactivo, un campo ferial entre otros atractivos).
-Mercado de las Brujas
-Teatro Municipal de La Paz
-Teatro al Aire Libre
-Iglesia Santo Domingo
-La Calle Jaén (alberga 10 Museos, casas Coloniales, Bares y Restaurantes).
-Parque Metropolitano Laikacota
-Zoológico de Mallasa "Vesty Pakos Chuquiago Marka"
-Valle de la Luna
-Valle de las Ánimas
-Mirador Jach'a Kollo
-Estadio Hernando Siles (el más grande de Bolivia, local para los partidos de la Selección Boliviana de fútbol).
-Laguna Cota Cota
-Cañón de Palca
-Cine Teatro Monje Campero (uno de los cines más antiguos de ciudad de La Paz, cuenta con la pantalla más grande de Bolivia).
-Mi Teleférico
-Sopocachi (Zona artística de la ciudad).
-Zona Sur
-Los Puentes Trillizos
-La Muela del Diablo
-Jardín Japonés
+* Casco Viejo de la Ciudad
+* Plaza Murillo
+* Palacio de Gobierno (Bolivia)
+* El Paseo del Prado (El Prado).
+* Templo y convento de San Francisco
+* Catedral Metropolitana
+* Parque Urbano Central (que tiene los parques Roosevelt y Laikakota, variedad de canchas polifuncionales, un museo interactivo, un campo ferial entre otros atractivos).
+* Mercado de las Brujas
+* Teatro Municipal de La Paz
+* Teatro al Aire Libre
+* Iglesia Santo Domingo
+* La Calle Jaén (alberga 10 Museos, casas Coloniales, Bares y Restaurantes).
+* Parque Metropolitano Laikacota
+* Zoológico de Mallasa "Vesty Pakos Chuquiago Marka"
+* Valle de la Luna
+* Valle de las Ánimas
+* Mirador Jach'a Kollo
+* Estadio Hernando Siles (el más grande de Bolivia, local para los partidos de la Selección Boliviana de fútbol).
+* Laguna Cota Cota
+* Cañón de Palca
+* Cine Teatro Monje Campero (uno de los cines más antiguos de ciudad de La Paz, cuenta con la pantalla más grande de Bolivia).
+* Mi Teleférico
+* Sopocachi (Zona artística de la ciudad).
+* Zona Sur
+* Los Puentes Trillizos
+* La Muela del Diablo
+* Jardín Japonés
+
 En los alrededores de la ciudad de La Paz
 
-Cerro Illimani (la mayor cumbre de la Cordillera Real).
-Montaña Huayna Potosí
-Chacaltaya (pista de nieve más alta del mundo).
-Lago Titicaca
-Copacabana (Bolivia) (pueblo a orillas del lago Titicaca).
-Parque Nacional Madidi
-Sorata
-Coroico (pueblo de Los Yungas, región con clima cálido y húmedo y mucha vegetación).
-Tiwanaku (ruinas de la cultura Tiwanacota).
-Montaña Condori
-Palca (pueblo en las faldas del nevado Illimani).
-Parque Nacional Cotapata
-Caminos Precolombinos: Takesi, el Choro, Yunga Cruz y el Camino del Oro
-Termas de Urmiri
-Reserva de la biosfera y tierra comunitaria de origen Pilón Lajas
-El Valle de Zongo
-Lago Titicaca (Varias poblaciones a orillas del lago e islas)
+* Cerro Illimani (la mayor cumbre de la Cordillera Real).
+
+* Montaña Huayna Potosí
+
+* Chacaltaya (pista de nieve más alta del mundo).
+
+* Lago Titicaca
+
+* Copacabana (Bolivia) (pueblo a orillas del lago Titicaca).
+* Parque Nacional Madidi
+* Sorata
+* Coroico (pueblo de Los Yungas, región con clima cálido y húmedo y mucha vegetación).
+* Tiwanaku (ruinas de la cultura Tiwanacota).
+* Montaña Condori
+* Palca (pueblo en las faldas del nevado Illimani).
+* Parque Nacional Cotapata
+* Caminos Precolombinos: Takesi, el Choro, Yunga Cruz y el Camino del Oro
+* Termas de Urmiri
+* Reserva de la biosfera y tierra comunitaria de origen Pilón Lajas
+* El Valle de Zongo
+* Lago Titicaca (Varias poblaciones a orillas del lago e islas)
 
