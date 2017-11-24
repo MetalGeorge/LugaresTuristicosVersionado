@@ -1,16 +1,32 @@
 # Beni 
-![Imagen departamento del Beni](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beni_dpto_001.png/300px-Beni_dpto_001.png)
+![Imagen departamento de La Paz](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Beni_dpto_001.png/300px-Beni_dpto_001.png)
 ## 1. Introducción 
 
-Beni, es uno de los nueve departamentos que conforman el Estado Plurinacional de Bolivia. Su capital es Trinidad. Está ubicado en el centronorte del país, limitando al norte con Brasil, al este con Santa Cruz, al sur con Cochabamba, al oeste con La Paz y al noroeste con Pando. Con una superficie territorial de 213.564 km², Beni es el segundo departamento más extenso de Bolivia— por detrás de Santa Cruz—.
+La Paz, es la sede de gobierno del Estado Plurinacional de Bolivia. Su capital es La Paz. Está ubicado en el este del país, limitando al norte con el departamento de Pando, al este con el departamento de Beni, al sur con Oruto y al oeste con los paises de Chile y Perú. Desde el 7 de diciembre de 2014, La Paz es considerada como una de las nuevas siete ciudades maravillas del mundo.
 
-Fuente: [Wikipedia Beni](https://es.wikipedia.org/wiki/Departamento_de_El_Beni)
+Fuente: [Wikipedia La Paz](https://es.wikipedia.org/wiki/La_Paz)
 
 ## 2. Historia
-En homenaje al primer año de la victoria boliviana en la Batalla de Ingavi del 18 de noviembre de 1841, se funda y se desprende de el departamento de Santa Cruz de la Sierra y se crea el departamento del Beni que todo el Beni antiguamente territorio de la gobernación del Departamento de Santa Cruz de la Sierra el 18 de noviembre de 1842 por ley promulgada por el mariscal y Presidente de Bolivia José Ballivián y Segurola, sobre la base de las Misiones de Moxos: San Ignacio, Trinidad, Magdalena, Baures, San Joaquín, Santa Ana y Loreto, entre otras, todas ellas formaban parte del departamento de Santa Cruz al momento de constituirse la República de Bolivia. Ballivián rindió homenaje, de esa manera, al primer aniversario de la victoriosa batalla de Ingavi, que no sólo selló definitivamente la independencia nacional, sino que mutiló todo atisbo de un proyecto panperuano y recordado por la muerte de un caudillo obcecado, quien pretendía sojuzgar el Altiplano: el general peruano Agustín Gamarra.
+La ciudad de La Paz fue fundada el 20 de octubre de 1548 por el capitán Alonso de Mendoza en la localidad de Laja como parte del Corregimiento de La Paz y para servir como punto de descanso para los viajeros que transitaban entre Potosí y Cuzco.
+
+Tres días después fue trasladada más al este, a un lugar de clima templado ubicado al borde del altiplano,​ donde se inician las quebradas y el valle, llamado Chuquiago Marka (en aimara, chuqiyapu significa ‘chacra de oro’; probablemente llamado así por la explotación de pepitas de oro en los pequeños ríos del lugar). La Paz era controlada con firmeza por España, el rey español tenía la última palabra en todos los asuntos políticos. En 1781 hubo una revolución indígena, liderada por Tupak Katari, que sitió la ciudad impidiendo el paso de personas y mercancías, además de atacarla lanzando piedras de los cerros e incendiando tejados.
+
+Como unidad administrativa, durante la colonia fue parte integrante del Corregimiento de La Paz y la Intendencia de La Paz.
+
+Encabezado por Pedro Domingo Murillo y otros líderes locales, la lucha por la independencia de la dominación española trajo levantamientos contra las fuerzas realistas. La ciudad se levantó en armas el 16 de julio de 1809 contra el Imperio español e instauró el primer Gobierno libre de Hispanoamérica,[cita requerida] formando una Junta Tuitiva el 22 de julio de 1809. En la proclama de esta Junta Tuitiva que se puede leer: «Compatriotas: hasta aquí hemos tolerado una especie de destierro en el seno mismo de nuestra patria;[...] hemos guardando un silencio bastante parecido a la estupidez». Esto marcó el inicio formal de la liberación de América del Sur contra el Imperio español.
+
+Poco después la Junta fue disuelta por los realistas, y el 29 de enero de 1810 Pedro Domingo Murillo y sus colaboradores fueron ahorcados en la Plaza de los Españoles. Antes de morir pronunciaría su más famosa frase: «Compatriotas, yo muero, pero la tea que dejó encendida nadie la podrá apagar, ¡viva la libertad!». Su nombre sería recordado en el nombre de la plaza.
+
+El departamento de La Paz en el que se encuentra el municipio fue creado por Decreto Supremo del 23 de enero de 1826 junto a los departamentos de Chuquisaca, Potosí, Santa Cruz y Cochabamba durante el Gobierno de Antonio José de Sucre.[cita requerida]
+
+El 3 de enero de 1827 el congreso constituyente de Bolivia amplió el nombre de la ciudad a La Paz de Ayacucho en honor a la victoria en la Batalla de Ayacucho.
+
+Tras la guerra federal de 1898-1899, La Paz asumió la sede de Gobierno (poderes ejecutivo y legislativo), convirtiéndose así en sede política de facto en la administración nacional. La contienda enfrentó a liberales del norte, contra conservadores del sur que querían que la sede de Gobierno se quedase en Sucre. Esta situación quedó establecida el 25 de octubre de 1899, fecha en la que el general José Manuel Pando asumió la presidencia de la República a raíz del triunfo de la Revolución Federal.[cita requerida]
+
+El 22 de julio de 2007 se llevó a cabo el El Gran Cabildo, donde aproximadamente dos millones de habitantes de la ciudad de La Paz y El Alto refrendaron la permanencia de la sede de Gobierno en esta ciudad.
 
 
-Fuente: [Wikipedia Beni Historia](https://es.wikipedia.org/wiki/Departamento_de_El_Beni#Historia)
+Fuente: [Wikipedia La Paz Historia](https://es.wikipedia.org/wiki/La_Paz#Historia)
 
 ## 3. Atractivos
 
