@@ -1,3 +1,0 @@
-# LugaresTuristicosVersionado
-
-Santa Cruz
